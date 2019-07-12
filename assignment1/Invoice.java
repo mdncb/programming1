@@ -48,14 +48,14 @@ public class Invoice
 	 
 	// All vital private customer and invoice information necessary for each unique invoice
 	private String customerName,
-				   contactNumber,
-				   streetAddress,
-				   city,
-				   country,
+		       contactNumber,
+		       streetAddress,
+		       city,
+		       country,
 				   
-				   purchaseString,
-				   dateTime,
-				   invoiceNumber;
+		       purchaseString,
+		       dateTime,
+		       invoiceNumber;
 	
 	// The price total of the invoice is declared here as a global variable
 	private double totalOrderCost;
