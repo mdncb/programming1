@@ -41,9 +41,9 @@ public class Invoice
 	 * In-store pick-up [no charge]
 	 */
 	private final double[] DELIVERYFEES = { 9.95,
-											20.00,
-											37.96,
-											0.00 };
+						20.00,
+						37.96,
+						0.00 };
 	private final double INSURANCE = 9.95;
 	 
 	// All vital private customer and invoice information necessary for each unique invoice
